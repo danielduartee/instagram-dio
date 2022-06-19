@@ -127,12 +127,10 @@ body {
 
 }
 
-.download {
-    display: flex;
-    width: 100%;
-    justify-content: space-evenly;
-    align-items: center;
-    padding: 1rem;
+.app-download {
+    height: 3rem;
+    width: 10rem;
+    background-size: cover;
 
 }
 
